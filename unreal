@@ -1,0 +1,2 @@
+ 1. `git clone https://github.com/ncsoft/Unreal.js-core <YourProject>/Plugins/UnrealJS`
+cd <YourProject>/Plugins/UnrealJS && ./install-v8-libs
